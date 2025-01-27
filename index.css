@@ -1,0 +1,25 @@
+
+/* -------------------- IMPORTED FONTS -------------------------------------- */
+@import url('https://fonts.googleapis.com/css2?family=Habibi&family=Irish+Grover&display=swap');
+/* --------------------GLOBAL STYLES (mobile first/small) --------------------*/
+    p {
+        font-family: "Habibi", sans-serif;
+    }
+    h1, h2,h3, h4 {
+        font-family: "Irish Grover", sans-serif;
+    }
+    h1{
+        font-size: 2.5em;
+    }
+    h2 {
+        font-size: 1.75em;
+    }
+    h3, p {
+        font-size: 1.25em;
+    }
+    header, aside {
+        background-color: #06A816;
+    }
+    body{
+        background-color: #ffffff;
+    }
